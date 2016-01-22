@@ -1,3 +1,5 @@
 Hellow word
 Lesson 2 and home issue
+
 lesson 2.1  заркепление
+Проверка кодировки
